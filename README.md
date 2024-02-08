@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Aqila, a passionate and aspiring Full Stack Web Developer. I recently graduated with a degree in Electronics and I am currently on the path to becoming a proficient Full stack developer. 👨‍💻
 - 👀 Skills
 - **Languages:** HTML, CSS, JavaScript
-- **Frontend:** Bootstrap
-- **Other:** Git, RESTful APIs
-- 🌱 I’m currently learning JavaScript
+- **Frontend:** React Js, Redux, Bootstrap
+- **Database:** MongoDB
+- **Other:** Git, API, JSON
+- 🌱 I’m currently learning Node.js
 - 💞️ I am actively seeking opportunities to collaborate on exciting projects and expand my knowledge. If you have any interesting projects or job opportunities, feel free to reach out!
 - 📫 How to reach me
 - LinkedIn: www.linkedin.com/in/aqila-m
